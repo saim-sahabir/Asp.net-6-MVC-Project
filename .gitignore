@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 **/.vs
 **/bin
 **/obj
 **/*.user
 **/Exercise
-=======
 ###################
 # compiled source #
 ###################
@@ -80,4 +78,3 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
->>>>>>> 2a02f7bcb024987ab6f11aeafad9aaf0155858a0
